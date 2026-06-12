@@ -1,4 +1,4 @@
-# 🌏 Travel Spending Analysis
+# Travel Spending Analysis
 
 This project analyses personal travel spending across a multi-city trip in China. The goal is to understand how money was spent across categories, how spending changed over time, and how costs varied between locations.
 
@@ -8,7 +8,7 @@ The dataset is based on personal travel spending records. Personal information h
 
 ---
 
-## 📊 Project Objectives
+## Project Objectives
 
 The key questions explored in this project were:
 
@@ -55,7 +55,7 @@ Key findings include:
 
 ---
 
-## 📊 Visualisations
+## Visualisations
 
 The project includes visual analysis of:
 
@@ -67,7 +67,7 @@ The project includes visual analysis of:
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - Python
 - Pandas
@@ -76,7 +76,7 @@ The project includes visual analysis of:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 /data → raw datasets
 /notebooks → analysis notebook
@@ -91,7 +91,7 @@ This project demonstrates how personal spending data can be structured, cleaned,
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Build an interactive dashboard (e.g. Plotly / Power BI)
 - Automate location tagging further
