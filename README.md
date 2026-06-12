@@ -78,9 +78,9 @@ The project includes visual analysis of:
 
 ## Project Structure
 
-/data → raw datasets
-/notebooks → analysis notebook
-/outputs → charts and exported visuals
+data → raw datasets
+notebooks → analysis notebook
+outputs → charts and exported visuals
 README.md → project overview
 
 ---
